@@ -6,7 +6,7 @@ BA-780-Fall-26
 **BA780 Introduction to Data Analytics · Fall 2026 · Team A07**
 Boston University Questrom School of Business
 
-**Team:** Albert Dorofeev (Project Manager), Carly Barry, Daniel Igbokwe,
+**Team:** Carly Barry, Albert Dorofeev, Daniel Igbokwe,
 Eliza Bashirian, Emanuele Borroni
 
 ## Project Overview
