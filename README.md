@@ -3,7 +3,7 @@ BA-780-Fall-26
 # Do Comics Mirror America?
 ### Women's Jobs in Marvel and DC vs. the U.S. Workforce
 
-**BA780 Introduction to Data Analytics · Fall 2026 · Team A07**
+**BA780 Introduction to Data Analytics · Fall 2026 ·**
 Boston University Questrom School of Business
 
 **Team:** Carly Barry, Albert Dorofeev, Daniel Igbokwe,
